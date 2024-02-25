@@ -1,0 +1,5 @@
+- ZINE
+  - topics:
+    - Reverse Engineering
+      - Malware
+      - Cryptanalysis
